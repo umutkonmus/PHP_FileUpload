@@ -1,6 +1,6 @@
 <!--
 
-<form action="upload.php" method="post" enctype="multipart/form-data">
+<form action="upload_file.php" method="post" enctype="multipart/form-data">
   <td><input type="file" name="file"></td>
   <td><input name="submit" type="submit" value="Upload" /></td>
 </form>
